@@ -1,4 +1,4 @@
-package com.tetris.tetris
+﻿package com.crixov.tetris
 
 import io.flutter.embedding.android.FlutterActivity
 
